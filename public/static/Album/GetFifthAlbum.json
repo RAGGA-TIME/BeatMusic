@@ -1,0 +1,38 @@
+[
+    {
+        "_id": "5d9b5eaccc0a107f5cf5ce1f",
+        "album_cover_url": "http://img.ragga-time.com/Conspiracy%20Pt.2.jpg",
+        "belong_user": "5d6ddcb9df45f655e8dedfd3",
+        "have_music": [
+            {
+                "_id": "5d9b5f4ecc0a107f5cf5ce22",
+                "belong_user": "5d6ddcb9df45f655e8dedfd3",
+                "cover_url": "http://img.ragga-time.com/Conspiracy%20Pt.2.jpg",
+                "listen": 142,
+                "music_url": "http://www.ragga-time.com/music/Viol (Original Mix) - Gesaffelstein.mp3",
+                "name": "Viol",
+                "release_date": "2011-07-18"
+            }
+        ],
+        "name": "Conspiracy Pt.2",
+        "release_date": "2011-07-18"
+    },
+    {
+        "_id": "5d9b5ecccc0a107f5cf5ce20",
+        "album_cover_url": "http://img.ragga-time.com/Blast%20Off.jpg",
+        "belong_user": "5d6ddcb9df45f655e8dedfd3",
+        "have_music": [
+            {
+                "_id": "5d9b5f22cc0a107f5cf5ce21",
+                "belong_user": "5d6ddcb9df45f655e8dedfd3",
+                "cover_url": "http://img.ragga-time.com/Blast%20Off.jpg",
+                "listen": 142,
+                "music_url": "http://www.ragga-time.com/music/Blast Off - Gesaffelstein_Pharrell Williams.mp3",
+                "name": "Blast Off",
+                "release_date": "2019-03-01"
+            }
+        ],
+        "name": "Blast Off",
+        "release_date": "2019-03-01"
+    }
+]

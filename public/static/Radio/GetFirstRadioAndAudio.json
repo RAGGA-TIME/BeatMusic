@@ -1,0 +1,32 @@
+[
+    {
+        "_id": "5d9ab12ed21d2d4a3446a2f7",
+        "belong_user": "5d64a30c31ff308068700a7b",
+        "create_date": "2011-02-01",
+        "have_radios": [
+            {
+                "_id": "5d9ab19cd21d2d4a3446a2f8",
+                "audio_cover_url": "http://img.ragga-time.com/ro-1214-423940-front.jpg",
+                "audio_url": "http://www.ragga-time.com/music/The Island vs. Reload (Swedish House Mafia Mashup).mp3",
+                "belong_radio": "5d9ab12ed21d2d4a3446a2f7",
+                "create_date": "2011-02-01",
+                "introduction": "The Island vs. Reload (Swedish House Mafia Mashup)",
+                "listen": 0,
+                "name": "The Island vs. Reload (Swedish House Mafia Mashup)"
+            },
+            {
+                "_id": "5d9ab1c7d21d2d4a3446a2f9",
+                "audio_cover_url": "http://img.ragga-time.com/ro-1214-423940-front.jpg",
+                "audio_url": "http://www.ragga-time.com/music/Payback vs. More Than You Know (SHM UMF 2018 Mashup).mp3",
+                "belong_radio": "5d9ab12ed21d2d4a3446a2f7",
+                "create_date": "2011-02-01",
+                "introduction": "Payback vs. More Than You Know (SHM UMF 2018 Mashup)",
+                "listen": 0,
+                "name": "Payback vs. More Than You Know (SHM UMF 2018 Mashup)"
+            }
+        ],
+        "introduction": "Swedish House Mafia Live Set",
+        "name": "SHM Live Set",
+        "radio_cover_url": "http://img.ragga-time.com/ro-1214-423940-front.jpg"
+    }
+]

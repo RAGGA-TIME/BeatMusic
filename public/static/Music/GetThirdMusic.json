@@ -1,0 +1,29 @@
+[
+    {
+        "_id": "5d9b2164cc0a107f5cf5ce1e",
+        "belong_user": "5d6489b27301853cd071761e",
+        "cover_url": "http://img.ragga-time.com/Tiger.jpg",
+        "listen": 142,
+        "music_url": "http://www.ragga-time.com/music/Tiger - Steve Angello.mp3",
+        "name": "Tiger",
+        "release_date": "2015-11-20"
+      },
+      {
+        "_id": "5d9b212dcc0a107f5cf5ce1d",
+        "belong_user": "5d6489b27301853cd071761e",
+        "cover_url": "http://img.ragga-time.com/Payback.jpg",
+        "listen": 142,
+        "music_url": "http://www.ragga-time.com/music/Payback - Steve Angello_Dimitri Vangelis & Wyman.mp3",
+        "name": "Payback",
+        "release_date": "2014-04-20"
+      },
+      {
+        "_id": "5d9b20fdcc0a107f5cf5ce1c",
+        "belong_user": "5d6489b27301853cd071761e",
+        "cover_url": "http://img.ragga-time.com/Inferno.jpg",
+        "listen": 142,
+        "music_url": "http://www.ragga-time.com/music/Freedom - Steve Angello_Pusha T.mp3",
+        "name": "Freedom",
+        "release_date": "2017-10-13"
+      }
+]

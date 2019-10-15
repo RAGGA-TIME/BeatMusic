@@ -1,0 +1,47 @@
+.el-header, .el-footer {
+    background-color: $maincolor2;
+    color: $maincolor;
+    text-align: center;
+    height: 4.5vw;
+    box-shadow:0px 4px 8px -10px;
+    z-index: 6;
+    font-family: 'Century Gothic'
+  }
+  
+  .el-aside {
+    background-color: $maincolor2;
+    color: $maincolor;
+    text-align: center; 
+    height: 100vh;
+    transition: all 0.5s;
+    box-shadow:2.5px 64px 8px -10px;
+    z-index: 7;
+    font-family: 'Century Gothic';
+    overflow-y:scroll;
+
+  }
+  ::-webkit-scrollbar{
+    display:none;
+}
+  
+  .el-main {
+    background-color: $maincontextcolor;
+    color: $maincolor;
+    text-align: center;
+    height: calc(100vh - 4.7vw);
+    z-index: 5;
+    font-family: 'Century Gothic'
+  }
+  
+  body > .el-container {
+    margin-bottom: 40px;
+  }
+  
+  .el-container:nth-child(5) .el-aside,
+  .el-container:nth-child(6) .el-aside {
+    line-height: 260px;
+  }
+  
+  .el-container:nth-child(7) .el-aside {
+    line-height: 320px;
+  }

@@ -1,0 +1,41 @@
+{
+    "code": 200,
+    "message": "查询所有用户成功",
+    "data": [
+        {
+            "listen": 16352,
+            "_id": "5d64a30c31ff308068700a7b",
+            "bigurl": "https://qiniu.rainwe.com/Swedish_House_Mafia__03.png",
+            "introduction": "Swedish House Mafia is a Swedish super audio Mafia formed by Axwell, Steve Angello, and Sebastian Ingrosso. Each member of the group is a versatile DJ and producer. Originally working together in Sweden, in the mid-2000s they began working together from time to time to produce their own productions. Eric Prydz stayed as a member for a while.",
+            "name": "Swedish House Mafia"
+        },
+        {
+            "listen": 12544,
+            "_id": "5d6489d37301853cd071761f",
+            "bigurl": "https://qiniu.rainwe.com/Eric-Pyrdz.png",
+            "introduction": "Eric Prydz, born in 1976, is a Swedish DJ and music producer who lives in London. He started his music career at the age of nine and became famous with the release of his first single, Call On Me, in 2004. The song has been number one for five weeks on the UK Singles Chart and number one for six weeks on the German Top 100. Proper Education is one of the most influential of his former mixers for British rock group Pink Ployd.",
+            "name": "Eric Prydz"
+        },
+        {
+            "listen": 10532,
+            "_id": "5d6489b27301853cd071761e",
+            "bigurl": "https://qiniu.rainwe.com/Steve_Angello_01.png",
+            "introduction": "Steve Angello was born in 1982. He is a DJ and producer from Stockholm. In 2003, he established his own music label, Size Records. Swedish House Mafia, his electric group with Axwell and Sebastian Ingrosso, went on to produce six platinum singles. Steve Angello received a grammy nomination for best dance music in 2013 for his single Don't You Worry Child.",
+            "name": "Steve Angello"
+        },
+        {
+            "listen": 9538,
+            "_id": "5d64897b7301853cd071761d",
+            "bigurl": "https://qiniu.rainwe.com/Hardwell_01.png",
+            "introduction": "Hardwell (Robbert van DE Corput, born 7 January 1988 in breda, Netherlands) is a DJ(record jockey) and music producer in the Big Room House and electronic House in the Netherlands. In 2013, DJ magazine selected him as the top 100 DJ of the year, and he was re-elected in 2014. Hardwell is known for performing live at big music parties such as Tomorrowland and Ultra. The videos on the Youtube channel have attracted more than 100 million views. Hardwell came to prominence with the 2009 remix Show Me Love vs. Be. He founded his record label Revealed Recordings in 2010 and his online radio show Hardwell On Air in 2011. The brand went on to publish five music collections and his documentaries. His debut, United We Are, was released on January 23, 2015.",
+            "name": "Hardwell"
+        },
+        {
+            "listen": 8421,
+            "_id": "5d6ddcb9df45f655e8dedfd3",
+            "bigurl": "https://qiniu.rainwe.com/Gesaffelstein_01.png",
+            "introduction": "Mike Lévy (born 13 June 1987), known professionally as Gesaffelstein, is a French techno artist and DJ. He has worked alongside artists as varied as The Weeknd, Tiga, Miss Kittin, A$AP Rocky, Lana Del Rey, Phoenix, and Kanye West.",
+            "name": "Gesaffelstein"
+        }
+    ]
+}

@@ -1,0 +1,22 @@
+[
+    {
+        "_id": "5d825f881d82a261342d902d",
+        "belong_user": "5d64897b7301853cd071761d",
+        "create_date": "2011-02-01",
+        "have_radios": [
+            {
+                "_id": "5d8261041d82a261342d902e",
+                "audio_cover_url": "http://img.ragga-time.com/1421668544013966.jpg",
+                "audio_url": "http://www.ragga-time.com/music/Generate - Eric Prydz.mp3",
+                "belong_radio": "5d825f881d82a261342d902d",
+                "create_date": "2011-02-01",
+                "introduction": "It's first phase Host by Hardwell",
+                "listen": 0,
+                "name": "No.1"
+            }
+        ],
+        "introduction": "One hour present of the future! it name is Hardwell on air！！😄",
+        "name": "Hardwell on air",
+        "radio_cover_url": "http://img.ragga-time.com/156930385365888ebc29bbc5a93799786ad8c6c3a894d.jpeg"
+    }
+]

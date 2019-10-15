@@ -1,0 +1,41 @@
+@import "./togerher.scss";
+
+body{
+    overflow:scroll;
+    overflow-y:hidden;
+    overflow-x:hidden;
+    font-family: $font_family;
+}
+
+.big_clap_bg {
+    position:absolute;
+    z-index:8;
+    right:0px; width:35%; height:100%;
+    background:rgba($red,$green,$blue,$alpha);
+}
+
+::-webkit-scrollbar{
+    display:none;
+}
+
+.big_clap {
+    position:absolute;
+    z-index:6;
+    right:0px; width:35%; height:100%;
+    overflow:hidden;
+    border-radius:.3em;
+  }
+  
+.big_clap::before {
+    content:'';
+    position:absolute;
+    top:0;
+    right:0;
+    bottom:0;
+    left:0;
+    margin:-30px;
+    z-index:-1;
+    -webkit-filter:blur(20px);
+    filter:blur(20px);
+    background:url("https://qiniu.rainwe.com/Swedish_House_Mafia__03.png")no-repeat center 0/cover fixed;
+}

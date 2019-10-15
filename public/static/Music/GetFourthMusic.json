@@ -1,0 +1,20 @@
+[
+    {
+        "_id": "5d9b6bdd4f05b133a8ffa286",
+        "belong_user": "5d64897b7301853cd071761d",
+        "cover_url": "http://img.ragga-time.com/1570466780307Survivors.jpg",
+        "listen": 0,
+        "music_url": "http://www.ragga-time.com/music/Survivors (Original Mix) - Hardwell_Dannic_Haris.mp3",
+        "name": "Survivors",
+        "release_date": "2015-05-20"
+      },
+      {
+        "_id": "5d9b6a794f05b133a8ffa285",
+        "belong_user": "5d64897b7301853cd071761d",
+        "cover_url": "http://img.ragga-time.com/1570466422899United We Are.jpg",
+        "listen": 0,
+        "music_url": "http://www.ragga-time.com/music/Eclipse - Hardwell.mp3",
+        "name": "Eclipse",
+        "release_date": "2015-01-20"
+      }
+]

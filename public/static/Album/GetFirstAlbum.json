@@ -1,0 +1,56 @@
+[
+    {
+        "_id": "5d9ae7ddcc0a107f5cf5ce16",
+        "album_cover_url": "http://img.ragga-time.com/Greyhound.jpg",
+        "belong_user": "5d64a30c31ff308068700a7b",
+        "have_music": [
+            {
+                "_id": "5d9ae695f7d36e40901487e0",
+                "belong_user": "5d64a30c31ff308068700a7b",
+                "cover_url": "http://img.ragga-time.com/Greyhound.jpg",
+                "listen": 142,
+                "music_url": "http://www.ragga-time.com/music/Greyhound - Swedish House Mafia.mp3",
+                "name": "Greyhound",
+                "release_date": "2017-11-20"
+            }
+        ],
+        "name": "Greyhound",
+        "release_date": "2018-05-18"
+    },
+    {
+        "_id": "5d9ae803cc0a107f5cf5ce17",
+        "album_cover_url": "http://img.ragga-time.com/One%20%28Your%20Name%29.jpg",
+        "belong_user": "5d64a30c31ff308068700a7b",
+        "have_music": [
+            {
+                "_id": "5d9ae679f7d36e40901487df",
+                "belong_user": "5d64a30c31ff308068700a7b",
+                "cover_url": "http://img.ragga-time.com/One%20%28Your%20Name%29.jpg",
+                "listen": 142,
+                "music_url": "http://www.ragga-time.com/music/One (Your Name) (Radio Edit) - Swedish House Mafia_Pharrell Williams.mp3",
+                "name": "One (Your Name)",
+                "release_date": "2017-11-20"
+            }
+        ],
+        "name": "One (Your Name)",
+        "release_date": "2018-05-18"
+    },
+    {
+        "_id": "5d9ae828cc0a107f5cf5ce18",
+        "album_cover_url": "http://img.ragga-time.com/Save%20The%20World.jpg",
+        "belong_user": "5d64a30c31ff308068700a7b",
+        "have_music": [
+            {
+                "_id": "5d9ae658f7d36e40901487de",
+                "belong_user": "5d64a30c31ff308068700a7b",
+                "cover_url": "http://img.ragga-time.com/Save%20The%20World.jpg",
+                "listen": 142,
+                "music_url": "http://www.ragga-time.com/music/Save The World - Swedish House Mafia.mp3",
+                "name": "Save The World",
+                "release_date": "2017-11-20"
+            }
+        ],
+        "name": "Save The World",
+        "release_date": "2018-05-18"
+    }
+]
