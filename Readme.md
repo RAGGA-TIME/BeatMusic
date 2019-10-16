@@ -1,52 +1,61 @@
 <!DOCTYPE html>
 <html>
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Github: BeatMusic: An independent upload resources for musicians to share music WebApp</title>
+  <link rel="stylesheet" href="https://stackedit.io/style.css" />
+</head>
+
 <body class="stackedit">
   <div class="stackedit__html"><p align="center">
   <a href="http://www.ragga-time.com" target="blank"><img src="http://img.ragga-time.com/NewLogox.png" alt="BeatMusic Logo"></a>
 </p>
-<h2><a id="BeatMusic_WebAppWebApp_5"></a>BeatMusic: WebApp一款可供音乐人自主上传资源分享音乐的WebApp(包含后台管理系统)</h2>
-<p style="color:blue">
-<span id="Chinese" style="">简体中文</span><span id="English" style="">English</span>
-</p>
+<h2><a id="BeatMusic_WebApp_5"></a>BeatMusic: 一款可供音乐人自主上传资源分享音乐的WebApp(包含后台管理系统)</h2>
 <p>Github：<a href="https://github.com/RAGGA-TIME/BeatMusic/">https://github.com/RAGGA-TIME/BeatMusic/</a><br>
 An independent upload resources for musicians to share music WebApp (Contains background management system)</p>
-<h2><a id="Getting_Started_10"></a>Getting Started</h2>
-<pre><code class="prism language-bash"><span class="token function">git</span> clone https://github.com/RAGGA-TIME/BeatMusic.git
-
+<h2><a id="Getting_Started_10"></a>Getting Started（开始使用）</h2>
+<pre><code class="prism language-bash">//	克隆项目
+<span class="token function">git</span> clone https://github.com/RAGGA-TIME/BeatMusic.git
+//	安装依赖
 <span class="token function">npm</span> <span class="token function">install</span>
 
 development:
-
 <span class="token function">npm</span> run serve
 
+访问http://localhost:8080
 running at http://localhost:8080
 
 product:
-
 <span class="token function">npm</span> run build
 </code></pre>
-<h2><a id="Online_address_29"></a>Online address</h2>
+<h2><a id="Online_address_29"></a>Online address（线上体验地址）</h2>
 <blockquote>
 <p><a href="http://www.ragga-time.com">http://www.ragga-time.com</a></p>
 </blockquote>
 <h2><a id="Description_34"></a>Description</h2>
+<p>Behance是一个非常好的设计网站<br>
+该项目参考以下Ui版本还原了设计图。 网站用户仅供学习交流； 没有任何商业目的。<br>
+如有冒犯。请联系邮箱 965061947@qq.com 我将第一时间下线。感谢设计师们~</p>
 <p>Behance is a very good design website.<br>
 This project is restored with reference to the following Ui version. Website users learn to communicate; no business<br>
 If there is offense. Contact email 965061947@qq.com I am offline. Thanks to these designers~</p>
 <blockquote>
-<p>https://www.behance.net/gallery/59973977/Universal-Music-Group</p>
+<p><a href="https://www.behance.net/gallery/59973977/Universal-Music-Group">https://www.behance.net/gallery/59973977/Universal-Music-Group</a></p>
 </blockquote>
-<p>Other belongs to my personal design</p>
-<h2><a id="Features_43"></a>Features</h2>
-<p>CP terminal<br>
-<img src="http://img.ragga-time.com/First.gif" alt="BeatMusic FirstStep"><br>
-log in And Register<br>
+<p>其他属于个人设计<br>
+Other belongs to my personal design</p>
+<h2><a id="Features_48"></a>Features（功能展示）</h2>
+<p><strong>电脑端展示 （CP terminal）</strong><br>
+<img src="http://img.ragga-time.com/First.gif" alt="BeatMusic FirstStep"></p>
+<p><strong>登录注册展示 （LogIn And Register terminal）</strong><br>
 <img src="http://img.ragga-time.com/Sencod.gif" alt="BeatMusic SecondStep"></p>
-<p>Mobile terminal<br>
+<p><strong>移动端展示 （Mobile terminal）</strong><br>
 <img src="http://img.ragga-time.com/MobileFirst.gif" alt="BeatMusic MobileStep"></p>
-<h2><a id="Backstage_management_52"></a>Backstage management</h2>
+<h2><a id="Backstage_management_58"></a>Backstage management（后台管理展示）</h2>
 <img src="http://img.ragga-time.com/Backstage.gif" alt="BeatMusic Backstage">
-<h2><a id="Directory_Structure_56"></a>Directory Structure</h2>
+<h2><a id="Directory_Structure_62"></a>Directory Structure（目录结构）</h2>
 <pre><code class="prism language-bash">│  .editorconfig
 │  .env.development
 │  .gitignore
@@ -273,7 +282,7 @@ log in And Register<br>
                 └─More
                         Connection.vue
 </code></pre>
-<h2><a id="Instructions_for_use_285"></a>Instructions for use</h2>
+<h2><a id="Instructions_for_use_291"></a>Instructions for use（组件使用说明）</h2>
 <pre><code class="prism language-bash"><span class="token operator">&lt;</span>myTextArea /<span class="token operator">&gt;</span>
 props:
 textAreaData: String	// init Data初始参数
@@ -317,7 +326,8 @@ clickData：
 forward: String         // 跳转页面名称
 
 </code></pre>
-<p>Thanks for the help from the above tutorial.</p>
+<p>感谢这些教程给予我的帮助<br>
+Thanks for the help from the these tutorial.</p>
 <blockquote>
 <p>axios封装使用： https://www.imooc.com/learn/1152</p>
 </blockquote>
@@ -333,13 +343,4 @@ forward: String         // 跳转页面名称
 <p><strong>I am a rookie. There are still many bugs in the project that are not resolved. The future will be gradually updated and improved. Welcome everyone to mention issue and pr  Thanks You ! 😄😄😄</strong></p>
 </div>
 </body>
-
-<script>
-let b = document.getElementById('Chinese');
-b.onclick = function () {
-    console.log('hhah')
-}
-
-</script>
-
 </html>
