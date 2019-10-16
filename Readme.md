@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="http://www.ragga-time.com" target="blank"><img src="http://img.ragga-time.com/NewLogox.png" width="120" alt="BeatMusic Logo" /></a>
+  <a href="http://www.ragga-time.com" target="blank"><img src="http://img.ragga-time.com/NewLogox.png" alt="BeatMusic Logo" /></a>
 </p>
 一款可供音乐人自主上传资源分享音乐的WebApp;
 
