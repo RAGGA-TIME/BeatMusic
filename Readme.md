@@ -5,6 +5,9 @@
   <a href="http://www.ragga-time.com" target="blank"><img src="http://img.ragga-time.com/NewLogox.png" alt="BeatMusic Logo"></a>
 </p>
 <h2><a id="BeatMusic_WebAppWebApp_5"></a>BeatMusic: WebApp一款可供音乐人自主上传资源分享音乐的WebApp(包含后台管理系统)</h2>
+<p style="color:blue">
+<span id="Chinese" style="">简体中文</span><span id="English" style="">English</span>
+</p>
 <p>Github：<a href="https://github.com/RAGGA-TIME/BeatMusic/">https://github.com/RAGGA-TIME/BeatMusic/</a><br>
 An independent upload resources for musicians to share music WebApp (Contains background management system)</p>
 <h2><a id="Getting_Started_10"></a>Getting Started</h2>
@@ -330,5 +333,13 @@ forward: String         // 跳转页面名称
 <p><strong>I am a rookie. There are still many bugs in the project that are not resolved. The future will be gradually updated and improved. Welcome everyone to mention issue and pr  Thanks You ! 😄😄😄</strong></p>
 </div>
 </body>
+
+<script>
+let b = document.getElementById('Chinese');
+b.onclick = function () {
+    console.log('hhah')
+}
+
+</script>
 
 </html>
